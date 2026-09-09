@@ -1,0 +1,9 @@
+super herda atributos da classe pai
+extends liga a classe filha a classe pai
+@override altera a função
+
+
+
+polimorfismo
+herança
+abstração
